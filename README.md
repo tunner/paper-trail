@@ -45,3 +45,7 @@ If you have questions, feedback, or need help, contact:
 tunner.dev@gmail.com
 
 ---------
+
+Privacy Policy
+
+The full privacy policy can be found at https://github.com/tunner/paper-trail/edit/main/privacy.md
